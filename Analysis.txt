@@ -1,0 +1,8 @@
+1) Used random Api  for populating the main list (Constrain)
+2) Used demo list in project for second screen(Actvity Screen) (Constrain)
+3) Added some UI touches (Which added small amount of time) such as drawables icons, textview status change,
+custom dialog on item click.
+4) Maintained dimensions
+5) Two screens only (Assumption)
+6) No click on activity screen, already shows the activity no detail required (Assumption)
+7) Project took a little more time, i hope it was worth it (In my opinion, it was :) )

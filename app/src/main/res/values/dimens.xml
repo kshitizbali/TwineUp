@@ -1,0 +1,11 @@
+<resources>
+    <dimen name="app_bar_height">180dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+    <dimen name="textview_padding">10dp</dimen>
+    <dimen name="margin_tab">1dp</dimen>
+    <dimen name="tv_amount_padding">16dp</dimen>
+    <dimen name="tv_amount_padding_10">10dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="padding_draw">4dp</dimen>
+</resources>
